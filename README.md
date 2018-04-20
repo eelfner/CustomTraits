@@ -8,6 +8,6 @@ The table below shows the IB Storyboard "View as" options to use.
 
 ![Width and Height Size Traits](OrientationSizeTrait.jpg)
 
-## On github
+## On YouTube
 
-https://github.com/eelfner/CustomTraits
+A complete video explanation and demo of this code is available on YouTube: https://youtu.be/0Y_d_UdFiDI
