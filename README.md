@@ -7,3 +7,7 @@ orientation (height size class) and/or device size iPhone/iPad (width size class
 The table below shows the IB Storyboard "View as" options to use.
 
 ![Width and Height Size Traits](OrientationSizeTrait.jpg)
+
+## On github
+
+https://github.com/eelfner/CustomTraits
