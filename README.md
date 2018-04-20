@@ -6,4 +6,4 @@ this class, you can easily design you UI in a StoryBoard with differences for
 orientation (height size class) and/or device size iPhone/iPad (width size class).
 The table below shows the IB Storyboard "View as" options to use.
 
-[Width and Height Size Traits](OrientationSizeTrait.jpg)
+![Width and Height Size Traits](OrientationSizeTrait.jpg)
